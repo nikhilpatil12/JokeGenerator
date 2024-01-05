@@ -2,7 +2,6 @@ const express = require("express");
 const { createCanvas, loadImage } = require("canvas");
 
 const app = express();
-const port = 3000;
 const fs = require("fs");
 app.use(express.static("public"));
 
@@ -50,9 +49,7 @@ app.get("/api/image", async (req, res) => {
   }
 });
 
-app.listen(port, () => {
-  console.log(`Server is running at http://localhost:${port}`);
-});
+module.exports = app;
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * (max + 1));
