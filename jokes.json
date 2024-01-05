@@ -1,0 +1,424 @@
+{
+  "jokes": [
+    {
+      "question": "Why do programmers prefer dark mode?",
+      "answer": "Because light attracts bugs!"
+    },
+    {
+      "question": "How do you comfort a JavaScript bug?",
+      "answer": "You console it!"
+    },
+    {
+      "question": "Why do programmers prefer cats?",
+      "answer": "They're purr-fect for debugging!"
+    },
+    {
+      "question": "What's a programmer's favorite place in New York?",
+      "answer": "The Java."
+    },
+    {
+      "question": "Why did the programmer go broke?",
+      "answer": "Because he used up all his cache!"
+    },
+    {
+      "question": "How many programmers does it take to change a light bulb?",
+      "answer": "None. That's a hardware issue."
+    },
+    {
+      "question": "Why did the database administrator leave his wife?",
+      "answer": "She had one too many relationships."
+    },
+    {
+      "question": "What's a programmer's favorite song?",
+      "answer": "Hello World by Adele."
+    },
+    {
+      "question": "Why do programmers prefer Git over Mercurial?",
+      "answer": "Because Git never lets you down."
+    },
+    {
+      "question": "What's a programmer's favorite hangout spot?",
+      "answer": "The Foo Bar."
+    },
+    {
+      "question": "Why did the programmer break up with his keyboard?",
+      "answer": "It had too many commitment issues."
+    },
+    {
+      "question": "How does a computer get drunk?",
+      "answer": "It takes too many screenshots."
+    },
+    {
+      "question": "What's a programmer's favorite type of car?",
+      "answer": "A variable."
+    },
+    {
+      "question": "Why did the programmer quit his job?",
+      "answer": "He didn't get arrays."
+    },
+    {
+      "question": "Why do programmers prefer dark chocolate?",
+      "answer": "It has a higher byte count."
+    },
+    {
+      "question": "What's a programmer's favorite seafood?",
+      "answer": "Java."
+    },
+    {
+      "question": "How do you comfort a JavaScript bug?",
+      "answer": "You make it throw an exception."
+    },
+    {
+      "question": "Why did the developer go broke?",
+      "answer": "Because he lost his cache flow."
+    },
+    {
+      "question": "What do you call a programmer from Finland?",
+      "answer": "Nerdic."
+    },
+    {
+      "question": "Why do programmers prefer dark alleys?",
+      "answer": "Fewer objects there."
+    },
+    {
+      "question": "What's a programmer's favorite movie genre?",
+      "answer": "Fantasy."
+    },
+    {
+      "question": "Why did the programmer get thrown out of school?",
+      "answer": "He refused to take a byte out of his apple."
+    },
+    {
+      "question": "How do you comfort a JavaScript variable?",
+      "answer": "You assign it a value."
+    },
+    {
+      "question": "Why did the programmer stay at the bar all night?",
+      "answer": "He wanted to get into a loop."
+    },
+    {
+      "question": "What's a programmer's favorite footwear?",
+      "answer": "Flip-Flops."
+    },
+    {
+      "question": "Why did the computer catch a cold?",
+      "answer": "It left its Windows open."
+    },
+    {
+      "question": "How do you generate a random string?",
+      "answer": "Put a first-year computer science student in Vim and ask them to save and exit."
+    },
+    {
+      "question": "Why do programmers prefer dark mode during winter?",
+      "answer": "To stay warm with fewer white pixels."
+    },
+    {
+      "question": "What do you call a programmer who doesn't like coffee?",
+      "answer": "A tea-byte."
+    },
+    {
+      "question": "How do you comfort a sad SQL database?",
+      "answer": "You pat it on the back and say, 'There, there, it's only a table.'"
+    },
+    {
+      "question": "What's a programmer's favorite exercise?",
+      "answer": "Exercising caution with merge conflicts."
+    },
+    {
+      "question": "Why did the programmer go to therapy?",
+      "answer": "Too many issues with his inheritance."
+    },
+    {
+      "question": "What's a computer's favorite snack?",
+      "answer": "Chips."
+    },
+    {
+      "question": "Why do programmers hate nature?",
+      "answer": "It has too many bugs."
+    },
+    {
+      "question": "What's a programmer's favorite game?",
+      "answer": "Hide and seek, with the bugs."
+    },
+    {
+      "question": "Why did the computer take up gardening?",
+      "answer": "It wanted to improve its root system."
+    },
+    {
+      "question": "How do you organize a space party?",
+      "answer": "You planet."
+    },
+    {
+      "question": "Why did the developer go broke buying Bitcoin?",
+      "answer": "He couldn't handle the volatile relationships."
+    },
+    {
+      "question": "What's a programmer's favorite plant?",
+      "answer": "The C-sharp."
+    },
+    {
+      "question": "Why did the JavaScript developer go broke?",
+      "answer": "He lost his prototype inheritance."
+    },
+    {
+      "question": "What's a pirate's favorite programming language?",
+      "answer": "Rrrrrr."
+    },
+    {
+      "question": "Why did the developer get mad at the database?",
+      "answer": "It couldn't commit."
+    },
+    {
+      "question": "What do you call a programmer who doesn't use Git?",
+      "answer": "A commitaphobe."
+    },
+    {
+      "question": "Why did the programmer plant a light bulb?",
+      "answer": "He wanted to grow a power plant."
+    },
+    {
+      "question": "What's a programmer's favorite type of bread?",
+      "answer": "While-loop."
+    },
+    {
+      "question": "Why did the programmer start a band?",
+      "answer": "To write better algorithms."
+    },
+    {
+      "question": "How does a computer catch fish?",
+      "answer": "With its internet."
+    },
+    {
+      "question": "Why did the programmer always carry a ladder?",
+      "answer": "To reach the high branches of the tree data structure."
+    },
+    {
+      "question": "What's a programmer's favorite type of coffee?",
+      "answer": "Java."
+    },
+    {
+      "question": "Why do programmers hate nature?",
+      "answer": "It has too many bugs."
+    },
+    {
+      "question": "What do you call a programmer who doesn't like to share?",
+      "answer": "Selfish."
+    },
+    {
+      "question": "Why did the programmer break up with his girlfriend?",
+      "answer": "She had too many issues."
+    },
+    {
+        "question": "Why did the developer go broke fixing bugs?",
+        "answer": "He couldn't find the root cause."
+      },
+      {
+        "question": "What's a programmer's favorite type of tree?",
+        "answer": "Binary tree."
+      },
+      {
+        "question": "Why do programmers prefer dark chocolate?",
+        "answer": "It has a higher byte count."
+      },
+      {
+        "question": "How many programmers does it take to change a light bulb?",
+        "answer": "None. It's a hardware issue."
+      },
+      {
+        "question": "Why do Java developers wear glasses?",
+        "answer": "Because they don't see sharp."
+      },
+      {
+        "question": "What's a programmer's favorite hangout spot?",
+        "answer": "The Bitwise Bar."
+      },
+      {
+        "question": "Why did the computer cross the road?",
+        "answer": "To get to the other website."
+      },
+      {
+        "question": "What's a programmer's favorite seafood?",
+        "answer": "Java."
+      },
+      {
+        "question": "Why did the developer break up with his keyboard?",
+        "answer": "It had too many keys to his heart."
+      },
+      {
+        "question": "How do you comfort a JavaScript bug?",
+        "answer": "You console it!"
+      },
+      {
+        "question": "Why did the programmer quit his job?",
+        "answer": "He didn't get arrays."
+      },
+      {
+        "question": "What's a programmer's favorite exercise?",
+        "answer": "CTRL + S."
+      },
+      {
+        "question": "Why do programmers prefer cats?",
+        "answer": "They're purr-fect for debugging!"
+      },
+      {
+        "question": "What's a programmer's favorite mode of transportation?",
+        "answer": "Git push bike."
+      },
+      {
+        "question": "Why do programmers prefer dark alleys?",
+        "answer": "Fewer objects there."
+      },
+      {
+        "question": "How do you generate a random string?",
+        "answer": "Ask someone who codes in Perl to explain it to you."
+      },
+      {
+        "question": "Why did the developer go broke?",
+        "answer": "He lost his cache flow."
+      },
+      {
+        "question": "What's a programmer's favorite song?",
+        "answer": "Hello World by Adele."
+      },
+      {
+        "question": "How does a computer get drunk?",
+        "answer": "It takes too many screenshots."
+      },
+      {
+        "question": "Why do programmers hate nature?",
+        "answer": "It has too many bugs."
+      },
+      {
+        "question": "What's a programmer's favorite plant?",
+        "answer": "The C-sharp."
+      },
+      {
+        "question": "How do you organize a space party?",
+        "answer": "You planet."
+      },
+      {
+        "question": "Why did the JavaScript developer go broke?",
+        "answer": "He lost his prototype inheritance."
+      },
+      {
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "Rrrrrr."
+      },
+      {
+        "question": "Why did the developer get mad at the database?",
+        "answer": "It couldn't commit."
+      },
+      {
+        "question": "What do you call a programmer who doesn't use Git?",
+        "answer": "A commitaphobe."
+      },
+      {
+        "question": "Why did the programmer plant a light bulb?",
+        "answer": "He wanted to grow a power plant."
+      },
+      {
+        "question": "What's a programmer's favorite type of bread?",
+        "answer": "While-loop."
+      },
+      {
+        "question": "Why did the programmer start a band?",
+        "answer": "To write better algorithms."
+      },
+      {
+        "question": "How does a computer catch fish?",
+        "answer": "With its internet."
+      },
+      {
+        "question": "Why did the programmer always carry a ladder?",
+        "answer": "To reach the high branches of the tree data structure."
+      },
+      {
+        "question": "What's a programmer's favorite type of coffee?",
+        "answer": "Java."
+      },
+      {
+        "question": "Why do programmers hate nature?",
+        "answer": "It has too many bugs."
+      },
+      {
+        "question": "What do you call a programmer who doesn't like to share?",
+        "answer": "Selfish."
+      },
+      {
+        "question": "Why did the programmer break up with his girlfriend?",
+        "answer": "She had too many issues."
+      },
+      {
+        "question": "Why do programmers prefer dark mode during winter?",
+        "answer": "To stay warm with fewer white pixels."
+      },
+      {
+        "question": "What's a computer's favorite snack?",
+        "answer": "Chips."
+      },
+      {
+        "question": "Why do programmers prefer dark mode?",
+        "answer": "Because light attracts bugs!"
+      },
+      {
+        "question": "How do you comfort a JavaScript bug?",
+        "answer": "You console it!"
+      },
+      {
+        "question": "Why do programmers prefer cats?",
+        "answer": "They're purr-fect for debugging!"
+      },
+      {
+        "question": "What's a programmer's favorite place in New York?",
+        "answer": "The Java."
+      },
+      {
+        "question": "Why did the programmer go broke?",
+        "answer": "Because he used up all his cache!"
+      },
+      {
+        "question": "How many programmers does it take to change a light bulb?",
+        "answer": "None. That's a hardware issue."
+      },
+      {
+        "question": "Why did the database administrator leave his wife?",
+        "answer": "She had one too many relationships."
+      },
+      {
+        "question": "What's a programmer's favorite song?",
+        "answer": "Hello World by Adele."
+      },
+      {
+        "question": "Why do programmers prefer Git over Mercurial?",
+        "answer": "Because Git never lets you down."
+      },
+      {
+        "question": "What's a programmer's favorite hangout spot?",
+        "answer": "The Foo Bar."
+      },
+      {
+        "question": "Why did the programmer break up with his keyboard?",
+        "answer": "It had too many commitment issues."
+      },
+      {
+        "question": "How does a computer get drunk?",
+        "answer": "It takes too many screenshots."
+      },
+      {
+        "question": "What's a programmer's favorite type of car?",
+        "answer": "A variable."
+      },
+      {
+        "question": "Why did the programmer quit his job?",
+        "answer": "He didn't get arrays."
+      },
+      {
+        "question": "Why do programmers prefer dark chocolate?",
+        "answer": "It has a higher byte count."
+      },
+      {
+        "question": "What's a programmer's favorite seafood?",
+        "answer": "Java."
+      }
+    ]
+}
