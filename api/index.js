@@ -4,8 +4,8 @@ const { createCanvas, registerFont } = require("canvas");
 const fs = require("fs");
 const path = require("path");
 
-const fontconfigPath = "./fonts/fonts.conf";
-registerFont(fontconfigPath, { family: "Ubuntu" });
+// const fontconfigPath = "./fonts/fonts.conf";
+// registerFont(fontconfigPath, { family: "Ubuntu" });
 
 app.get("/api/image", async (req, res) => {
   try {
@@ -32,7 +32,7 @@ app.get("/api/image", async (req, res) => {
     ctx.stroke();
 
     ctx.fillStyle = "#ffffff";
-    ctx.font = "15px Ubuntu";
+    ctx.font = "15px Sans";
 
     ctx.fillText("Q: " + jokes.jokes[jokenumber].question, 20, 50);
     ctx.fillText("A: " + jokes.jokes[jokenumber].answer, 20, 100);
