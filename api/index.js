@@ -1,9 +1,8 @@
-const express = require("express");
-const { createCanvas, loadImage } = require("canvas");
+const app = require("express");
+const { createCanvas } = require("canvas");
 
 const app = express();
 const fs = require("fs");
-app.use(express.static("public"));
 
 app.get("/api/image", async (req, res) => {
   try {
