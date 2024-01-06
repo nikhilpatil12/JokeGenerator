@@ -35,15 +35,10 @@ app.get("/api/image", async (req, res) => {
     ctx.fillText("Q: " + jokes.jokes[jokenumber].question, 20, 50);
     ctx.fillText("A: " + jokes.jokes[jokenumber].answer, 20, 100);
 
-    // var image = new Image();
-    // image.id = "pic";
-    // image.src = canvas.toDataURL();
-    // // document.appendChild(image);
+    const svgString = canvas.toBuffer();
 
-    const dataUrl = canvas.toDataURL("image/png");
-
-    // Send the data URL as a response
-    res.send(`<img src="${dataUrl}" alt="Generated Joke"/>`);
+    res.contentType("image/svg");
+    res.send(svgString);
   } catch (error) {
     console.error(error);
     res.status(500).send("Internal Server Error");
