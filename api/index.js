@@ -1,8 +1,11 @@
 const app = require("express")();
-const { createCanvas } = require("canvas");
+const { createCanvas, registerFont } = require("canvas");
 
 const fs = require("fs");
 const path = require("path");
+
+const fontconfigPath = process.env.FONTCONFIG_PATH || "./fonts/fonts.conf";
+registerFont(fontconfigPath, { family: "Ubuntu" });
 
 app.get("/api/image", async (req, res) => {
   try {
