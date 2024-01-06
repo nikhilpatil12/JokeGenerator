@@ -1,5 +1,6 @@
 {
     "routes": [
+        {"src": "/", "dest": "/api/image" },
         {"src": "/api/(.*)", "dest": "/api" },
         { "src": "/fonts/(.*)", "dest": "/public/fonts/$1" }
     ]
