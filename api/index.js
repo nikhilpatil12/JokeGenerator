@@ -4,16 +4,6 @@ const { createCanvas } = require("canvas");
 const fs = require("fs");
 const path = require("path");
 
-const fontsDir = path.join(process.cwd(), "fonts");
-console.log(`Checking fonts in: ${fontsDir}`);
-fs.readdir(fontsDir, (err, files) => {
-  if (err) {
-    console.error("Error reading fonts directory:", err);
-  } else {
-    console.log("Available fonts:", files);
-  }
-});
-
 app.get("/api/image", async (req, res) => {
   try {
     jokenumber = getRandomInt(104);
@@ -57,4 +47,5 @@ app.get("/api/image", async (req, res) => {
 function getRandomInt(max) {
   return Math.floor(Math.random() * (max + 1));
 }
+
 module.exports = app;
