@@ -39,7 +39,7 @@ app.get("/api/image", async (req, res) => {
     ctx.stroke();
 
     ctx.fillStyle = "#ffffff";
-    ctx.font = "15px Comic Sans MS";
+    ctx.font = "15px Ubuntu Regular";
 
     ctx.fillText("Q: " + jokes.jokes[jokenumber].question, 20, 50);
     ctx.fillText("A: " + jokes.jokes[jokenumber].answer, 20, 100);
