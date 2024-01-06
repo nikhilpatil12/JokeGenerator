@@ -47,8 +47,7 @@ app.get("/api/image", async (req, res) => {
   }
 });
 
-module.exports = app;
-
 function getRandomInt(max) {
   return Math.floor(Math.random() * (max + 1));
 }
+module.exports = app;
