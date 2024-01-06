@@ -2,6 +2,7 @@ const app = require("express")();
 const { createCanvas } = require("canvas");
 
 const fs = require("fs");
+const path = require("path");
 
 app.get("/api/image", async (req, res) => {
   try {
