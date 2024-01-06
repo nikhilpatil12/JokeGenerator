@@ -1,6 +1,6 @@
 {
-    "rewrites": [{ "source": "/api/(.*)", "destination": "/api" }],
     "routes": [
-      { "src": "/fonts/(.*)", "dest": "/public/fonts/$1" }
+        {"src": "/api/(.*)", "dest": "/api" },
+        { "src": "/fonts/(.*)", "dest": "/public/fonts/$1" }
     ]
 }
