@@ -5,7 +5,7 @@ const fs = require("fs");
 
 app.get("/api/image", async (req, res) => {
   try {
-    fetch("./jokes.json")
+    fetch("jokes.json")
       .then((response) => response.json())
       .then((json) => {
         console.log(json);
