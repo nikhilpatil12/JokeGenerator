@@ -29,15 +29,10 @@ app.get("/api/image", async (req, res) => {
     ctx.stroke();
 
     ctx.fillStyle = "#ffffff";
-    ctx.font = "15px Arial";
+    ctx.font = "15px Comic Sans MS";
 
     ctx.fillText("Q: " + jokes.jokes[jokenumber].question, 20, 50);
     ctx.fillText("A: " + jokes.jokes[jokenumber].answer, 20, 100);
-
-    // var image = new Image();
-    // image.id = "pic";
-    // image.src = canvas.toDataURL();
-    // // document.appendChild(image);
 
     const dataUrl = canvas.toDataURL("image/png");
 
