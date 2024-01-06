@@ -1,7 +1,6 @@
 const app = require("express");
 const { createCanvas } = require("canvas");
 
-const app = express();
 const fs = require("fs");
 
 app.get("/api/image", async (req, res) => {
