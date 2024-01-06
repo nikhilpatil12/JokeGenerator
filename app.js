@@ -2,7 +2,7 @@ const express = require("express");
 const { createCanvas, loadImage } = require("canvas");
 
 const app = express();
-const port = 3000;
+const port = 3001;
 const fs = require("fs");
 app.use(express.static("public"));
 
