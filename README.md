@@ -1,6 +1,6 @@
 # Joke Generator API using Express and Canvas
 
-This is a simple Express.js application that generates a joke as an SVG image. It uses the Canvas library to create the image and serves it through an API endpoint.
+This is a simple Express.js application that generates a joke as an SVG image. It uses the Canvas library to create the image and serves it through an API endpoint. The demo of this API is hosted at [Demo Link](https://jokerr.nikpatil.com/api/image).
 
 ## Setup
 
